@@ -14,5 +14,3 @@ Explicación detallada ver :  [Vagrant + HAProxy](https://www.juandavidgonzalez.
 $ cd haproxy_vagrant
 $ vagrant up
 ```
-
-![Diagrama] (https://1.bp.blogspot.com/-XqZmuHxhXM8/XMXyaM4E5yI/AAAAAAAALYE/XvZnO_cdm40qm7VNMLtREZ5m4KAYw0inwCPcBGAYYCw/s1600/HAProxy.png)
